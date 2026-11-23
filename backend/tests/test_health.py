@@ -29,7 +29,7 @@ def test_health_endpoint_degraded(client):
     """Vérifie le comportement de /health lorsque la base est inaccessible"""
     with patch('app.engine.connect', side_effect=Exception("DB connection error")):
         response = client.get('/health')
-        assert response.status_code == 200
+        assert response.status_code == 503
         data = response.get_json()
         assert data['status'] == 'degraded'
         assert 'unhealthy' in data['database']
