@@ -6,8 +6,8 @@ Chaîne CI/CD complète, conteneurisation Docker, orchestration Docker Compose, 
 Dépôt officiel : [https://github.com/moetezmechmech/projet_devops.git](https://github.com/moetezmechmech/projet_devops.git)
 
 ### Liens des Pipelines CI/CD (Rendu professeur) :
-* 🟢 **Exécution réussie (Pipeline Vert) :** [https://github.com/moetezmechmech/ProjetDevops-/actions/runs/44970040120](https://github.com/moetezmechmech/ProjetDevops-/actions/runs/44970040120)
-* 🔴 **Exécution en échec (Pipeline Rouge) :** [https://github.com/moetezmechmech/ProjetDevops-/actions/runs/44969358533](https://github.com/moetezmechmech/ProjetDevops-/actions/runs/44969358533)
+* 🟢 **Exécution réussie (Pipeline Vert) :** [https://github.com/moetezmechmech/projet_devops/actions/runs/45225703015](https://github.com/moetezmechmech/projet_devops/actions/runs/45225703015)
+* 🔴 **Exécution en échec (Pipeline Rouge) :** [https://github.com/moetezmechmech/projet_devops/actions/runs/45225700311](https://github.com/moetezmechmech/projet_devops/actions/runs/45225700311)
 
 ---
 
