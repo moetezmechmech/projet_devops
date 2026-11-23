@@ -1,0 +1,29 @@
+# Secrets et configuration locale
+.env
+*.env
+backend/app/.env
+
+# Python & tests
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+htmlcov/
+.coverage
+report.xml
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# IDE et OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
