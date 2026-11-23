@@ -6,8 +6,8 @@
 **Dépôt Git :** [https://github.com/moetezmechmech/projet_devops.git](https://github.com/moetezmechmech/projet_devops.git)  
 
 ### Liens des exécutions du pipeline (Exigés pour le rendu) :
-* 🟢 **Exécution réussie (Pipeline vert) :** [https://github.com/moetezmechmech/projet_devops/actions/runs/45225703015](https://github.com/moetezmechmech/projet_devops/actions/runs/45225703015)
-* 🔴 **Exécution en échec (Pipeline rouge) :** [https://github.com/moetezmechmech/projet_devops/actions/runs/45225700311](https://github.com/moetezmechmech/projet_devops/actions/runs/45225700311)  
+* 🟢 **Exécution réussie (Pipeline vert - PR #1) :** [https://github.com/moetezmechmech/projet_devops/actions/runs/45284380195](https://github.com/moetezmechmech/projet_devops/actions/runs/45284380195)
+* 🔴 **Exécution en échec (Pipeline rouge - PR #2) :** [https://github.com/moetezmechmech/projet_devops/actions/runs/45285864838](https://github.com/moetezmechmech/projet_devops/actions/runs/45285864838)  
 
 ---
 
