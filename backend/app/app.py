@@ -62,7 +62,7 @@ def health():
         return jsonify({
             "status": "degraded",
             "database": db_status
-        }), 200
+        }), 503
 
     return jsonify({
         "status": "healthy",
