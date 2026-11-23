@@ -20,7 +20,8 @@ def test_health_endpoint_healthy(client):
         mock_conn = MagicMock()
         mock_connect.return_value.__enter__.return_value = mock_conn
         response = client.get('/health')
-        assert response.status_code == 200
+        # Erreur volontaire pour démonstration du pipeline rouge en soutenance
+        assert response.status_code == 500
         data = response.get_json()
         assert data['status'] == 'healthy'
         assert data['database'] == 'ok'
